@@ -6,9 +6,7 @@
 
 > **Advanced Quantum Machine Learning framework for real-time transaction anomaly detection and fraud prevention**
 
-## 🚀 Demo
 
-**Live Demo**: [Deploy to see live version]
 
 ## 📋 Table of Contents
 
