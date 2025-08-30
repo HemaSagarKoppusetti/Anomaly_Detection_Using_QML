@@ -3,7 +3,6 @@
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![Quantum Computing](https://img.shields.io/badge/Quantum-Computing-purple.svg)](https://qiskit.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine-Learning-green.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Advanced Quantum Machine Learning framework for real-time transaction anomaly detection and fraud prevention**
 
@@ -190,20 +189,6 @@ This project serves as an excellent learning resource for:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🏆 Hackathon Judges
-
-### Key Highlights for Evaluation
-
-1. **Innovation**: First-of-its-kind QML fraud detection interface
-2. **Technical Depth**: Real quantum algorithm implementations
-3. **Practical Application**: Solves real-world financial problems
-4. **User Experience**: Professional, intuitive interface
-5. **Educational Impact**: Advances quantum computing understanding
-6. **Scalability**: Ready for production deployment
 
 ### Demo Script (5 minutes)
 
@@ -256,4 +241,4 @@ npm install
 
 **Built with ❤️ and ⚛️ quantum computing**
 
-*For questions or demo requests, contact: [your-email]*
+*For questions or demo requests, contact: hemasagar3186@gmail.com*
