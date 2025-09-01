@@ -188,14 +188,6 @@ This project serves as an excellent learning resource for:
 5. Open a Pull Request
 
 
-### Demo Script (5 minutes)
-
-1. **Introduction** (30s): "Quantum computing meets fraud detection"
-2. **Algorithm Selection** (1m): Show different quantum approaches
-3. **Real-time Detection** (1.5m): Run anomaly detection simulation
-4. **Performance Analysis** (1m): Compare algorithm effectiveness
-5. **Technical Deep Dive** (1m): Explain quantum advantages
-6. **Future Applications** (30s): Scaling to production systems
 
 ## 🆘 Troubleshooting
 
